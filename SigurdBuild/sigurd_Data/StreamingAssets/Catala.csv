@@ -1,0 +1,37 @@
+KEY;VALUE
+title;SIGURD
+playBtn;Jugar
+optionsBtn;Opcions
+creditsBtn;Crèdits
+exitBtn;Sortir
+volTxt;Volum
+languageTxt;Idioma
+fullscreenTxt;Pantalla completa
+saveBtn;Guardar
+returnBtn;Tornar
+txttutmove;WASD o stick dret per moure
+txttutjump;Barra o A per saltar
+txttutmines;Vigila amb les mines
+txttutcheckpoint;Toca un punt de control per desar el progres
+txttutatk;Clic dret o X per atacar
+txttutlad;barra o A junt a una escala per pujar
+txttutdiana;Fes ús de la bola de foc per destruir les dianes i accedir a zones noves.
+resumeBtn;Continuar
+resetBtn;Reiniciar
+Dialog1.1;…
+Dialog1.2;Sigurd... Sigurd... Desperta.
+Dialog1.3;Deixa’m. Ja estic mort.
+Dialog1.4;La lluita encara no ha acabat.
+Dialog2.1;Sembla que darrere d'aquesta tanca hi ha la sortida tot i que la porta no sembla cedir.
+Dialog2.2;Amb una mica més de poder podré obrir-la.
+Dialog2.3;Què insinues?
+Dialog2.4;Si aconsegueixes trobar una mica dels vestigis de la meva energia potser recuperi els meus poders.
+Dialog2.5;"I on estan exactament aquests ""vestigis"" dels quals parles?"
+Dialog2.6;Hi ha calaixos per tot l'Yggdrasil. Els Aesir es van assegurar de segellar-me fa molt de temps.
+Dialog2.7;Llavors tenim un enemic en comú. Estic amb tu.
+Dialog3.1;Qui ets? No m'atacaràs?
+Dialog3.2;Em dic Hela i sóc l'Aesir que governa Helheim.
+Dialog3.3;Un Aesir? Llavors haurà d’acabar amb tu.
+Dialog3.4;Espera! Veig que tens un vincle amb l'Omen. T’ajudaré. He obert les portes del castell perquè puguis sortir.
+Dialog3.5;I per què m’ajudes llavors?
+Dialog3.6;Tinc els meus motius.

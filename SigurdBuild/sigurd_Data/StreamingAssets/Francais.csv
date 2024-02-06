@@ -1,0 +1,37 @@
+KEY;VALUE
+title;SIGURD
+playBtn;Jouer
+optionsBtn;Choix 
+creditsBtn;Crédits 
+exitBtn;Sortie
+volTxt;Volume
+languageTxt;Langue
+fullscreenTxt;Plein écran
+saveBtn;Sauver
+returnBtn;Retouner
+txttutmove;WASD ou joystick gauche pour se déplacer
+txttutjump;Slash ou A pour sauter
+txttutmines;attention aux mines
+txttutcheckpoint;Touchez un point de contrôle pour enregistrer une position de réapparition
+txttutatk;Clic droit ou X pour attaquer
+txttutlad;Barre d'espace ou A à côté d'une échelle pour grimper
+txttutdiana;Utilisez la boule de feu pour détruire les réveils et accéder à de nouvelles zones
+resumeBtn;Continuer
+resetBtn;Réinitialiser 
+Dialog1.1;…
+Dialog1.2;Sigurd... Sigurd... Réveillez-vous.
+Dialog1.3;Laisse-moi. Je suis déjà mort.
+Dialog1.4;Le combat n'est pas encore terminé.
+Dialog2.1;Il semble que la sortie se trouve derrière cette clôture bien que la porte ne semble pas céder.
+Dialog2.2;Avec un peu plus de puissance je pourrai l'ouvrir.
+Dialog2.3;Que veux-tu insinuer ?
+Dialog2.4;Si vous parvenez à trouver des traces de mon énergie, je pourrais retrouver mes pouvoirs.
+Dialog2.5;Et où sont exactement ces « traces » dont vous parlez ?
+Dialog2.6;Il y a des coffres partout à Yggdrasil. Les Ases se sont assurés de me sceller il y a longtemps.
+Dialog2.7;Alors nous avons un ennemi commun. Je suis avec toi.
+Dialog3.1;Qui es-tu ? Tu ne vas pas m'attaquer ?
+Dialog3.2;Je m'appelle Hela et je suis l'Aesir qui dirige Helheim.
+Dialog3.3;Un Aesir ? Alors je vais devoir te vaincre.
+Dialog3.4;Attendez! Je vois que vous avez un lien avec l'Omen. Je vais t'aider. J'ai ouvert les portes du château pour que vous puissiez vous échapper.
+Dialog3.5;Et pourquoi m'aides-tu alors ?
+Dialog3.6;J'ai mes raisons.

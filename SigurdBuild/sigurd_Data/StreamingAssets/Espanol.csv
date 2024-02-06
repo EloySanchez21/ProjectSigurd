@@ -1,0 +1,37 @@
+KEY;VALUE
+title;SIGURD
+playBtn;Jugar
+optionsBtn;Opciones
+creditsBtn;Créditos
+exitBtn;Salir
+volTxt;Volumen
+languageTxt;Idioma
+fullscreenTxt;Pantalla completa
+saveBtn;Guardar
+returnBtn;Volver
+txttutmove;WASD o stick derecho para mover
+txttutjump;Barra o A para saltar
+txttutmines;Vigila con las mines
+txttutcheckpoint;Toca un punto de control para guardar el progreso
+txttutatk;Clic derecho o X para atacar
+txttutlad;barra o A junto a una escala para subir
+txttutdiana;Usa la bola de fuego para destruir las dianas y acceder a zonas nuevas.
+resumeBtn;Continuar
+resetBtn;Reiniciar
+Dialog1.1;…
+Dialog1.2;Sigurd... Sigurd... Despierta.
+Dialog1.3;Déjame. Ya estoy muerto.
+Dialog1.4;La pelea aún no ha terminado.
+Dialog2.1;Parece que detrás de esta valla está la salida aunque la puerta no parece ceder.
+Dialog2.2;Con un poco más de poder podré abrirla.
+Dialog2.3;¿Qué insinúas?
+Dialog2.4;Si consigues encontrar un poco de los vestigios de mi energía puede que recupere mis poderes.
+Dialog2.5;"¿Y donde están exactamente estos ""vestigios"" de los que hablas?"
+Dialog2.6;Hay cofres por todo el Yggdrasil. Los Aesir se aseguraron de sellarme hace mucho.
+Dialog2.7;Entonces tenemos un enemigo en común. Estoy contigo.
+Dialog3.1;¿Quién eres? ¿No me vas a atacar?
+Dialog3.2;Me llamo Hela y soy la Aesir que gobierna Helheim
+Dialog3.3;¿Una Aesir?  Entonces debería acabar contigo.
+Dialog3.4;¿Espera! Veo que tienes un vínculo con el Omen. Te voy a ayudar. He abierto las puertas del castillo para que puedas salir.
+Dialog3.5;¿Y por qué me ayudas entonces?
+Dialog3.6;Tengo mis motivos.

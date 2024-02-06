@@ -1,0 +1,37 @@
+KEY;VALUE
+title;SIGURD
+playBtn;Play
+optionsBtn;Options
+creditsBtn;Credits
+exitBtn;Exit
+volTxt;Volume
+languageTxt;Language
+fullscreenTxt;Full Screen
+saveBtn;Save
+returnBtn;Return
+txttutmove;WASD or left stick to move
+txttutjump;Spacebar or A to jump
+txttutmines;Be careful with mines
+txttutcheckpoint;Touch a checkpoint for save a respawn position
+txttutatk;Left click or X to attack
+txttutlad;Spacebar or A next to a ladder to climb
+txttutdiana;Use the fireball to destroy the reveilles and access new areas
+resumeBtn;Resume
+resetBtn;Reset
+Dialog1.1;…
+Dialog1.2;Sigurd... Sigurd... Wake up.
+Dialog1.3;Leave me. I'm already dead.
+Dialog1.4;The fight isn't over yet.
+Dialog2.1;It seems that the exit is behind this fence although the gate doesn't seem to give way.
+Dialog2.2;With a little more power I'll be able to open it.
+Dialog2.3;What are you insinuating?
+Dialog2.4;If you manage to find some traces of my energy I might regain my powers.
+Dialog2.5;"And where exactly are these ""traces"" you speak of?"
+Dialog2.6;There are chests all over Yggdrasil. The Aesir made sure to seal me a long time ago.
+Dialog2.7;Then we have a common enemy. I'm with you.
+Dialog3.1;Who are you? Aren't you going to attack me?
+Dialog3.2;My name is Hela and I am the Aesir who rules Helheim.
+Dialog3.3;An Aesir? Then I'll have to defeat you.
+Dialog3.4;Wait! I see that you have a connection to the Omen. I'm going to help you. I've opened the castle gates so you can escape.
+Dialog3.5;And why are you helping me then?
+Dialog3.6;I have my reasons.
